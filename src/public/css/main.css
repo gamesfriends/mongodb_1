@@ -8,3 +8,7 @@ body {
 .jumbotron, .card {
     color: #000000;
 }
+
+.logo {
+    width: 30%;
+}
